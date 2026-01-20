@@ -17,7 +17,7 @@ Fremgangsmåte
 1. Opprett databasen (første gang): python licenses.py
 2. Start serveren: python app.py
 Serveren kjører på http://127.0.0.1:5000/. La dette vinduet stå åpent mens du spiller.
-3. Registrer lisens (ny bruker): åpne nettleser og skriv: http://127.0.0.1:5000/register?email=ditt_email
+3. Registrer lisens (ny bruker): åpne nettleser og skriv: http://127.0.0.1:5000/register?email=ditt_email     
 Serveren returnerer en unik lisenskode.
 4. Spill spillet: python game.py
 Skriv inn din e-mail og lisenskoden du fikk fra serveren.
