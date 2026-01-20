@@ -1,0 +1,8 @@
+License: E36NG9, Email: marta@mail.com, Result: License approved
+License: 60WF92, Email: kira@mail.com, Result: License approved
+License: E36NG9, Email: marta@mail.com, Result: License already used
+License: E36NG9, Email: marta@mail.com, Result: License already used
+2026-01-20 11:41:41.716788 | Email: marta2mail.com | License: E36NG9 | Result: Invalid license
+License: E36NG9, Email: marta2mail.com, Result: Invalid license
+2026-01-20 11:42:22.613554 | Email: marta@mail.com | License: E36NG9 | Result: License approved
+License: E36NG9, Email: marta@mail.com, Result: License approved

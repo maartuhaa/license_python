@@ -3,3 +3,4 @@
 – Klonet repository til lokal maskin
 – Opprettet grunnleggende script (app.py)
 – Testet scriptet, kjører som forventet uten lisens
+
