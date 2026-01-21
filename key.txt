@@ -6,3 +6,14 @@ License: E36NG9, Email: marta@mail.com, Result: License already used
 License: E36NG9, Email: marta2mail.com, Result: Invalid license
 2026-01-20 11:42:22.613554 | Email: marta@mail.com | License: E36NG9 | Result: License approved
 License: E36NG9, Email: marta@mail.com, Result: License approved
+2026-01-20 11:54:01.934474 | Email: aksel@mail.com | License: ES3J2A | Result: License approved
+License: ES3J2A, Email: aksel@mail.com, Result: License approved
+2026-01-20 11:55:38.160382 | Email: tarald@mail.com | License: II7Y2J | Result: License approved
+License: II7Y2J, Email: tarald@mail.com, Result: License approved
+2026-01-21 09:07:55.819117 | Email: aidca@mail.com | License:  V3BXIX | Result: Invalid license
+License:  V3BXIX, Email: aidca@mail.com, Result: Invalid license
+2026-01-21 09:08:53.762905 | Email: aidca@mail.com | License: V3BXIX | Result: License approved
+License: V3BXIX, Email: aidca@mail.com, Result: License approved
+
+2026-01-21 09:49:50.781038 | Email: marta@mail.com | License: E36NG9 | Result: License approved
+License: E36NG9, Email: marta@mail.com, Result: License approved
