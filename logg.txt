@@ -1,6 +1,0 @@
-18.01.2026
-– Opprettet GitHub-repositorium
-– Klonet repository til lokal maskin
-– Opprettet grunnleggende script (app.py)
-– Testet scriptet, kjører som forventet uten lisens
-

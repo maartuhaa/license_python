@@ -17,8 +17,7 @@ Fremgangsmåte
 1. Opprett et virtuelt miljø: python -m venv .venv
 2. Aktiver det virtuelle miljøet: .venv\Scripts\activate
 3. Installer alle nødvendige biblioteker:          
-python -m pip install requests                                     
-python -m pip install flask
+pip install -r requirements.txt
 4. Opprett databasen (første gang): python licenses.py
 5. Start serveren: python app.py
 Serveren kjører på http://127.0.0.1:5000/. La dette vinduet stå åpent mens du spiller.
